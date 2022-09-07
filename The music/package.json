@@ -1,0 +1,31 @@
+{
+  "name": "itunes-api-with-react",
+  "version": "1.0.0",
+  "description": "Make an easy UI with React on the iTunes search API.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "play-sound": "^1.1.5",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-h5-audio-player": "^3.8.5",
+    "react-scripts": "^5.0.1",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
